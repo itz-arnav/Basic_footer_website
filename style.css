@@ -169,8 +169,11 @@ footer{
     width: 100%;
     height: 5rem;
     object-fit: cover;
-  }
+}
 
+.gridImages img:hover{
+    transform: scale(1.1);
+}
 
 .termsAndConditions{
     height: 10vh;
